@@ -1,0 +1,17 @@
+N{
+    text-align: center;
+    font-family: cursive;
+}
+.box {
+    border: 1px solid red;
+    width: 300px;
+  }
+  .a, .b {
+    display: inline-block;
+    width: 100px;
+    height: 50px;
+    border: 1px solid red;
+  }
+a {
+    text-decoration:none;
+}
